@@ -23,4 +23,4 @@ Regressão: garante integridade de versões passadas
 Processo de automatização é caro: selecionar
 funcionalidades
 
-[Projeto Base para Testes - .Net Core  ](https://github.com)
+[Projeto Base para Testes - .Net Core  ](https://github.com/JM-2/TestesUnidadeIntegradosTDD-.NET/tree/master/dotnet-vaquinha-tests-master)
